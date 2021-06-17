@@ -151,7 +151,7 @@ color: rgb(147, 2, 2);
   margin-left: 110px;
 }
 .third{
-  background: url(/images/hands.jpg);
+  background: url(images/hands.jpg);
   background-size: cover;
   background-position-y: -220px;
   height: 481px;
@@ -225,7 +225,7 @@ color: rgb(147, 2, 2);
   width: 48%;
 }
 #right{
-  background: url(/images/LEGAL_gavel-scale-book_10-5-2018.jpg);
+  background: url(images/LEGAL_gavel-scale-book_10-5-2018.jpg);
   background-size: contain;
   background-position-y: 27px;
   height: 90%;
